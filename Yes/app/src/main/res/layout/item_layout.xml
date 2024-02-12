@@ -8,7 +8,7 @@
     android:background="@android:drawable/editbox_dropdown_light_frame">
 
     <ImageView
-        android:id="@+id/imageViewFish"
+        android:id="@+id/imageViewBus"
         android:layout_width="45dp"
         android:layout_height="43dp"
         android:layout_marginStart="4dp"
@@ -43,5 +43,5 @@
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageViewFish" />
+        app:layout_constraintStart_toEndOf="@+id/imageViewBus" />
 </androidx.constraintlayout.widget.ConstraintLayout>
